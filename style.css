@@ -51,7 +51,7 @@ p {
 .message {
   padding: 20px;
   background-color: #eeeeee95;
-  min-width: 925px;
+  min-width: 80%;
   height: 80%;
   position: absolute;
   left: 50%;
